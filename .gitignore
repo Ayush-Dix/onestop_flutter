@@ -190,3 +190,10 @@ windows/
 .env.prod
 *.env
 *.ps1
+
+
+# Android/Gradle related
+/android/build.gradle.kts
+/android/settings.gradle.kts
+/android/app/build.gradle.kts
+MainActivity.kt
